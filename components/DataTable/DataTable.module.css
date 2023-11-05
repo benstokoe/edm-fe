@@ -1,0 +1,13 @@
+.dataTable {
+  border: 1px solid black;
+  width: 100%;
+}
+
+.heading {
+  padding: 0.5rem;
+  font-weight: bold;
+}
+
+.dataCell {
+  padding: 0.5rem;
+}

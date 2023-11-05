@@ -1,0 +1,15 @@
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+.header {
+  max-width: 1440px;
+  margin: 0 auto 2rem;
+  border-bottom: 1px solid black;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
